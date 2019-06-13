@@ -23,18 +23,18 @@ define("TRIBE4","Nature");
 define("TRIBE5","Natars");
 define("TRIBE6","Monsters");
 
-define("HOME","Homepage");
-define("INSTRUCT","Instructions");
+define("HOME","Pagina Inicial");
+define("INSTRUCT","Instruçoes");
 define("ADMIN_PANEL","Admin Panel");
 define("MASS_MESSAGE","Mass Message");
-define("LOGOUT","Logout");
-define("PROFILE","Profile");
-define("SUPPORT","Support");
+define("LOGOUT","Sair");
+define("PROFILE","Perfil");
+define("SUPPORT","Suporte");
 define("UPDATE_T_10","Update Top 10");
 define("SYSTEM_MESSAGE","System message");
 define("TRAVIAN_PLUS","Travian <b><span class=\"plus_g\">P</span><span class=\"plus_o\">l</span><span class=\"plus_g\">u</span><span class=\"plus_o\">s</span></span></span></b>");
 define("CONTACT","Contact us!");
-define("GAME_RULES","Game Rules");
+define("GAME_RULES","Regras");
 
 //MENU
 define("REG","Register");
